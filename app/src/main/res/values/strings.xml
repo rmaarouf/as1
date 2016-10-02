@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">rmaarouf-HabitTracker</string>
+    <string name="title_activity_view_completed_habits">ViewCompletedHabits</string>
+    <string-array name="days_options">
+        <item>All Habits</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="deleteDialog">Are you sure you want to delete completion?</string>
+</resources>
