@@ -1,8 +1,8 @@
 # as1
+The HabitTracker maintains a list of habits a user would like to complete. Habits can be deleted and completed multiple times a day. The use is able to view the records of the completed habits and the amount of completions per day. The HabitTracker requires Java 8 to run. 
+
 
 HabitTracker Video Youtube link: https://www.youtube.com/watch?v=MiIe9XBPI1I
-
-
 
 Resources:
 https://github.com/watts1/lonelyTwitter
