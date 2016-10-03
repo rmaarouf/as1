@@ -4,7 +4,7 @@ HabitTracker Video Youtube link: https://www.youtube.com/watch?v=MiIe9XBPI1I
 
 
 
-
+Resources:
 https://github.com/watts1/lonelyTwitter
 http://stackoverflow.com/questions/12384064/gson-convert-from-json-to-a-typed-arraylistt
 https://github.com/watts1/lonelyTwitter
